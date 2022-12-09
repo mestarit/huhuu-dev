@@ -11,6 +11,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^1.6.13"
+    "astro": "^1.6.13",
+    "date-fns": "^2.29.3"
   }
 }
