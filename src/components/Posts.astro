@@ -1,7 +1,7 @@
 ---
-let allPosts = await Astro.glob('../pages/news/posts/*.md');
+let allPosts = await Astro.glob('../pages/news/*.md');
 ---
 
-<div>
+<ul>
   {allPosts.map((post) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
-</div>
+</ul>
