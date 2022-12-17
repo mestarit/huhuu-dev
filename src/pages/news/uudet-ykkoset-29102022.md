@@ -48,12 +48,11 @@ Kuvassa Ira Levlin TT-linjalta
 TT-linjalla aloittanutta Ira Levliniä Ksykissä kiinnosti etenkin tiede- ja teknologialinja sekä kurssien laajuus ja monipuolisuus. Opettajien Ira odotti olevan hyviä Ksykin eliittikoulumaineen takia, joka osoittautuikin oikeaksi. “Opettajat on ollut hyviä, vaikka ei ehkä ihan mun mieleisiä, mutta he ovat silti osanneet opettaa.”
 
 Ira ei pidä aiempien ksykkiläisten sekaan sulautumista vaikeana. <nosto> “Ei ole sinänsä vaikea sulautua joukkoon, kunhan itse olet sosiaalisempi ja teet aloitteita. Sen pitäisi olla riittävää, sillä esim. meidän luokalla on alle puolet yläasteelta tulleita. “ 
-
-<img src="/images/uudet_ykköset_elsa.jpg" width="350">
-
-Kuvassa Elsa Norrby TT-linjalta
-
+<figure>
+    <img src="/images/uudet_ykköset_elsa.jpg" width="350">
+  <figcaption>Kuvassa Elsa Norrby TT-linjalta</figcaption>
+</figure>
+<br>
 T-linjalla aloittanutta Elsa Norrbya pelotti se, kuinka hän Helsingin ulkopuolelta tulevana sopeutuisi joukkoon. “Jo ekana päivänä tuli selväksi, että aavistukseni siitä, että moni tunsi toisensa etukäteen oli totta.” Elsa kertookin olleen helppo erottaa Ksykissä yläasteen käyneet muualta tulleista. “En tarkoita, etteivätkö he olisi olleet mukavia, mutta he olivat kyllä toden totta hieman yleviä ekat koulupäivät.” Kuva heistä kuitenkin muuttui nopeasti. “Ksykissä ollaan tosi avoimia ja hyväksyväisiä, kaikki opiskelijat vaikuttavat mukavilta ja opettajat ovat ymmärtäväisiä ja hauskoja.”
 
 > “Lopulta se, että onko joku ollut yläasteella Ksykissä vai ei, ei vaikuttanut ollenkaan siihen, minkälaisiin kaveriporukoihin hakeuduttiin ja joukkoon sulautui hyvin muutamien viikkojen kuluessa.“
-S
