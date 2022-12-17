@@ -14,4 +14,7 @@
     ul {
         @apply list-disc list-inside;
     }
+    blockquote {
+        @apply text-xl italic font-medium leading-relaxed text-gray-900;
+    }
 }
