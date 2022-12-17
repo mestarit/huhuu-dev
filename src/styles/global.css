@@ -17,4 +17,7 @@
     blockquote {
         @apply text-xl italic font-medium leading-relaxed text-gray-900;
     }
+    body {
+       @apply w-96;
+    }
 }
