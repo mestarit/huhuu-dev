@@ -55,6 +55,3 @@ Kuvassa Elsa Norrby TT-linjalta
 T-linjalla aloittanutta Elsa Norrbya pelotti se, kuinka hän Helsingin ulkopuolelta tulevana sopeutuisi joukkoon. “Jo ekana päivänä tuli selväksi, että aavistukseni siitä, että moni tunsi toisensa etukäteen oli totta.” Elsa kertookin olleen helppo erottaa Ksykissä yläasteen käyneet muualta tulleista. “En tarkoita, etteivätkö he olisi olleet mukavia, mutta he olivat kyllä toden totta hieman yleviä ekat koulupäivät.” Kuva heistä kuitenkin muuttui nopeasti. “Ksykissä ollaan tosi avoimia ja hyväksyväisiä, kaikki opiskelijat vaikuttavat mukavilta ja opettajat ovat ymmärtäväisiä ja hauskoja.”
 
 > “Lopulta se, että onko joku ollut yläasteella Ksykissä vai ei, ei vaikuttanut ollenkaan siihen, minkälaisiin kaveriporukoihin hakeuduttiin ja joukkoon sulautui hyvin muutamien viikkojen kuluessa.“
-
-
-<img src="../../../public/images/uudet_ykköset_Joona.jpg" width="350">
