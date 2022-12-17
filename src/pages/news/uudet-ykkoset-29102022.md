@@ -56,3 +56,5 @@ T-linjalla aloittanutta Elsa Norrbya pelotti se, kuinka hän Helsingin ulkopuole
 
 > “Lopulta se, että onko joku ollut yläasteella Ksykissä vai ei, ei vaikuttanut ollenkaan siihen, minkälaisiin kaveriporukoihin hakeuduttiin ja joukkoon sulautui hyvin muutamien viikkojen kuluessa.“
 
+
+<img src="../../../public/images/uudet_ykköset_Joona.jpg" width="350">
