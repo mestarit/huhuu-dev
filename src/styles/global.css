@@ -17,7 +17,8 @@
     blockquote {
         @apply text-xl italic font-medium leading-relaxed text-gray-900;
     }
-    body {
-       @apply w-96;
+
+    .blog-content {
+        @apply flex flex-col justify-center max-w-6xl;
     }
 }
