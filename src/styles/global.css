@@ -21,4 +21,7 @@
     .blog-content {
         @apply flex flex-col justify-center max-w-6xl;
     }
+    ol {
+        @apply list-decimal italic
+    }
 }
