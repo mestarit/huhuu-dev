@@ -1,8 +1,8 @@
 ---
-title: “Ahdistusmokkapalat”
+title: "Ahdistus mokkapalat"
 date: 07-02-2021
-author: “Meeri Vehmersuo”
-readTime: “1 min read”
+author: "Meeri Vehmersuo"
+readTime: "1 min read"
 layout: "../../layouts/NewsLayout.astro"
 ---
 
