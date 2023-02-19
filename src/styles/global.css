@@ -12,7 +12,7 @@
         @apply list-disc list-inside;
     }
     blockquote {
-        @apply text-xl italic font-medium leading-relaxed text-gray-900;
+        @apply text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white;
     }
 
     .blog-content {
@@ -25,4 +25,5 @@
     h1 {
         @apply font-gloock text-5xl mb-5;
     }
+    
 }
