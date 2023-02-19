@@ -14,9 +14,8 @@
     blockquote {
         @apply text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white;
     }
-
     .blog-content {
-        @apply flex flex-col justify-center max-w-6xl;
+        @apply flex flex-col justify-center;
     }
     ol {
         @apply list-decimal italic;
@@ -25,5 +24,4 @@
     h1 {
         @apply font-gloock text-5xl mb-5;
     }
-    
 }
