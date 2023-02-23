@@ -2,6 +2,7 @@
 title: "Testi: Kuka Opettaja Sinä Olet? / Quiz: Which Teacher Are You?"
 author: "Nooa Tanskanen"
 date: 2022-01-27 13:25:54 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 ****

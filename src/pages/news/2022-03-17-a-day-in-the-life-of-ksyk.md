@@ -2,6 +2,7 @@
 title: "A Day In The Life Of Ksyk"
 author: "Annukka Mäkeläinen"
 date: 2022-03-17 14:53:30 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 What does a normal Monday look like in KSYK? Let’s see what the students have been up to…****

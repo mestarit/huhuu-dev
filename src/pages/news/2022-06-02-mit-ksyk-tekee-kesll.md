@@ -2,6 +2,7 @@
 title: "Mitä Ksyk Tekee Kesällä?"
 author: "Hanna Laitinen"
 date: 2022-06-02 20:52:48 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Kuten kaikissa kouluissa, myös KSYK:issä valmistaudutaan kesän viettoon. Ulkomaan reissuja, mökkeilyä, unirytmin sekoittamista… Huhuu kävi selvittämässä koulun käytävillä, mitä ksykkiläiset odottavat tulevalta kesälomalta.

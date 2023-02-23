@@ -2,6 +2,7 @@
 title: "Huhuun Tontut Saivat Käsiinsä Opettajien Joululahjatoivelistat…"
 author: "Loviisa Pursiainen"
 date: 2021-12-21 07:00:30 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Kenen joulua piristävät kaksi pähkinää? Kenet saattaa ensi kesänä löytää Ed Sheeranin keikalta? Kenen mielestä sata sikaa on ihan hyödyllinen lahja?

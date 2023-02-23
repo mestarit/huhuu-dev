@@ -2,6 +2,7 @@
 title: "Kuka On Joulupukki Ja Miten Hänet Tunnistaa?"
 author: "Oliver Mononen"
 date: 2021-12-20 20:49:33 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Huhuu selvensi, mikä kaikki piilee valkoparran valkean parran takana.

@@ -2,6 +2,7 @@
 title: "Lepoa, Laskettelua Ja Lappi – Näin Halla Viettää Joulua"
 author: "Ronja Ruohoniemi"
 date: 2021-12-21 07:00:38 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Joulun lähestyessä jokaisen katseet kääntyvät kohti tulevaa lomaa ja sen mukanaan tuomaa hengähdystaukoa koulu- ja työstressistä. Syksy on ollut KSYK:ssa aherruksen täyttämä niin opiskelijoilla kuin opettajillakin eikä rehtorimme Lauri Hallakaan ole voinut välttää kiireitä tai pitkiä työpäiviä. Siinä missä esseet ja matikan tehtävät ovat lukukauden ajan tuottaneet ksykkiläisille päänvaivaa, Hallan arki on täyttynyt etenkin koulun laajennuksen organisoinnin kimpussa uurastamisesta. Muutaman päivän päässä odottaa kuitenkin ansaittu loma ja monien – myös Lauri Hallan – innolla odottama joulu. Huhuu pääsi kuulemaan, mitä Lauri Hallan joulunviettoon kuuluu, aina perheen perinteistä joulupöydän suosikkeihin.

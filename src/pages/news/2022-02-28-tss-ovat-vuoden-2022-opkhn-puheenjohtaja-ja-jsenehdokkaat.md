@@ -2,6 +2,7 @@
 title: "Tässä Ovat Vuoden 2022 Opkh:n Puheenjohtaja- Ja Jäsenehdokkaat!"
 author: "Yasmin Goran"
 date: 2022-02-28 16:57:41 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Yleiskokousta vietetään 2.3.2022, jolloin opiskelijakunnan hallitukseen valitaan uusi puheenjohtaja, varapuheenjohtaja sekä uudet rivijäsenet. Kulosaaren yhteiskoulussa yleiskokouksissa ei yleensä vältytä draamalta tai kuumottavilta äänestyshetkiltä. Tunnelma on usein innostava, sillä uusi OPKH:n kokoonpano edustaa koko opiskelijakuntaa seuraavan vuoden ajan. Huhuu esittelee kaikki ilmottautuneet ehdokkaat, joita on tänä vuonna harvinaisen vähän.

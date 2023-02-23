@@ -2,6 +2,7 @@
 title: "Ihanan Erilaiset Tavat Viettää (tai Olla Viettämättä) Joulua"
 author: "Erika Perttuli"
 date: 2022-12-21 12:49:21 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Joulu on taas, joulu on taas…! Mutta kuinka moni sitä koulustamme viettää ja minkälaisin perintein? Kysyimme asiaa niin yläasteen oppilailta kuin lukion opiskelijoilta. Vastauksissa painottuu erilaiset kulttuuriset perinteet ja merkitykset, mutta ilahduttavan paljon kaikki vastaajat korostivat rauhallisen yhdessäolon tärkeyttä materian ja joulun suorittamisen sijaan. (Also trending: hotpot, eggplant casserole, seitan, Stockholm cruises and Mariah Carey!)

@@ -2,6 +2,7 @@
 title: "Lukio Loppuun Ulkomailla"
 author: "Ronja Ruohoniemi"
 date: 2022-06-02 16:20:30 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Moni nuori haaveilee ulkomailla opiskelusta joko jo lukion aikana tai myöhemmin yliopistossa. Vaihtovuodet ulkomaille lukukaudeksi tai -vuodeksi ja muutaman viikon pituiset kielikurssit ovat suosittuja, mutta jokaisen opintojakson lopussa odottaa lento takaisin Suomeen. Mitä jos ulkomailta ei enää palaisikaan suomalaisen koulun penkille? Eri organisaatiot tarjoavat nuorille mahdollisuuksia suorittaa lukio alusta loppuun vieraassa maassa. KSYK:in ensimmäisen vuoden opiskelijat Inka Karlsson, 16, ja Katja Legeza, 17, kertoivat Huhuulle kesän jälkeen alkavista opinnoistaan ulkomailla United World Colleges -järjestön lukioissa.

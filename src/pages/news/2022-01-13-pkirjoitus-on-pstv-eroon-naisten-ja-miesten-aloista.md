@@ -2,6 +2,7 @@
 title: "Pääkirjoitus: On Päästävä Eroon Naisten Ja Miesten Aloista"
 author: "Yasmin Goran"
 date: 2022-01-13 09:21:53 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Korkeakouluhaut ovat jokaisella kolmannen vuoden lukiolaisella mielessä tänäkin keväänä. Kun valitsemme tulevaisuuden opiskelu- sekä mahdollisesti urapolkua, vaihtoehtoja kaventaa kiinnostuksen kohteiden, koulun sijainnin ja hakuvaatimusten lisäksi toisinaan alan sukupuolittuneisuus.

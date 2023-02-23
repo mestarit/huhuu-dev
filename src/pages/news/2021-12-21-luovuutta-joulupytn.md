@@ -2,6 +2,7 @@
 title: "Luovuutta Joulupöytään"
 author: "Annika Lappalainen"
 date: 2021-12-21 07:00:46 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Oletko kyllästynyt leipomaan ja syömään samoja vanhoja pipareita? Kaipaatko kenties uusia ideoita joulukeittiöön? Kokeile tänä jouluna jotain uutta kokeilemalla Huhuun omaperäisiä pipari-ideoita!****

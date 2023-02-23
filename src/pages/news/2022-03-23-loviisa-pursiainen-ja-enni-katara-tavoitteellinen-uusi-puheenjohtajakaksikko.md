@@ -2,6 +2,7 @@
 title: "Loviisa Pursiainen Ja Enni Katara - Tavoitteellinen Uusi Puheenjohtajakaksikko"
 author: "Peppi Särkelä"
 date: 2022-03-23 22:00:00 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Joka vuosi paljon kiinnostusta herättävät opiskelijakunnan hallituksen vaalit järjestettiin maaliskuun alussa ja harvinaisen vähäisestä ehdokasmäärästä huolimatta kokoon saatiin loistava uusi hallitus. Tulevana lukuvuonna OPKH:n puheenjohtajana toimii Loviisa Pursiainen ja varapuheenjohtajana Enni Katara. Opiskelijakunnan hallituksen tärkein tehtävä on ajaa opiskelijoiden etua ja työskennellä kouluympäristön parantamiseksi. Mitä uudella puheenjohtajakaksikolla on mielessä tulevaa kautta varten?

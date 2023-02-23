@@ -2,6 +2,7 @@
 title: "Pääkirjoitus: Isoi Juttui Tulos/ Editorial 10/2022"
 author: "Ronja Ruohoniemi"
 date: 2022-10-29 08:51:02 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Viime kevään ja alkusyksyn valitettavan hiljaiselon jälkeen Huhuu on taas elävien kirjoissa! Kesän jälkeen toimitus on pikkuhiljaa palannut työn touhuun ja uutta sisältöä pyritään tuottamaan mahdollisimman pian. Toimituksemme rakenne on muuttunut jonkin verran: viime vuoden abit ovat jatkaneet uusiin kuvioihin ja näin ollen jättäneet myös Huhuun taakseen. Onneksi joukkoomme on liittynyt myös muutama uusi jäsen ja otamme aina mielellämme uusia innokkaita mukaan toimintaan. Toimituksen rakennemuutoksen myötä myös päätoimittajamme vaihtuvat ja rooliin astumme nyt me!!!!

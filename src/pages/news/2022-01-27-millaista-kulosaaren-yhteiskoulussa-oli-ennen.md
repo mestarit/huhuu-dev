@@ -2,6 +2,7 @@
 title: "Millaista Kulosaaren Yhteiskoulussa Oli Ennen?"
 author: "Rita Järvelin"
 date: 2022-01-27 13:21:53 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Kulosaaren yhteiskoulu tunnetaan kansainvälisyyteen suuntautuvana kouluna, jossa opetusta on saatavilla suomeksi sekä englanniksi. Onko näin ollut aina? Millaista koulussa oli opiskella sen alkuvuosina 40- ja 50-luvuilla? Haimme vastauksia näihin kysymyksiin Harry Blässarilta, joka pääsi ylioppilaaksi Kulosaaren yhteiskoulussa vuonna 1952.

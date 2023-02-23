@@ -2,6 +2,7 @@
 title: "Kuinka Paeta Todellisuutta Vaikeina Aikoina?"
 author: "Albert Heinonen"
 date: 2022-03-24 12:55:15 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Tilanne maailmalla on ollut hektinen jo pitkän aikaa. Koronapandemia, vuoden 2021 kongressin valtaus, oppivelvollisuuden pidentäminen kahdeksaantoista ikävuoteen, ja monet muut erittäin stressaavat tilanteet ja muutokset ovat olleet arkielämää viimeisen vuoden aikana. Tämän takia todellisuudesta pakeneminen eli eskapismi on tullut erittäin suosituksi. Tässä artikkelissa listataan Huhuulle lähetettyjä ideoita ja tapoja eskapismiin sellaisia hetkiä varten, kun sitä tarvitset. Ideat on myös arvosteltu asteikolla yhdestä kymmeneen.

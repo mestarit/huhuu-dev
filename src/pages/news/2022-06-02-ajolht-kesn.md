@@ -2,6 +2,7 @@
 title: "Ajolähtö Kesään"
 author: "Ronja Ruohoniemi"
 date: 2022-06-02 16:24:01 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Legendaarinen kakkoset vastaan ykköset pesäpallo-ottelu pelattiin lukuvuoden viimeisenä varsinaisena koulupäivänä. Tunnelma kentällä ja sen laidoilla oli korkealla seuraavana päivänä alkavasta koeviikosta huolimatta. Myös Huhuu oli paikalla seuraamassa urheiluspektaakkelia – katso ottelun huippuhetket kuvakoosteesta!****

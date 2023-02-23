@@ -2,6 +2,7 @@
 title: "Uudet Ykköset"
 author: "Aino Sipilä"
 date: 2022-10-29 08:56:25 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Monille ykkösille Kulosaari oli jo ennestään tuttu yläasteelta, mutta toisille taas vieras. Niinpä kysyimme yläasteensa muualla käyneiltä ykkösiltä, millaisena he Ksykkiä pitivät ennen koulun alkua ja millaisena se koulun alun jälkeen näyttäytyy.![](https://static.wixstatic.com/media/8b055d_a600c3b326274cf79cbb251fa92df854~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png)Osalla oli ennestään odotuksia sekä oletuksia kun taas osalla ei. YT-linjalla aloittaneen Joona Jokiniemen oletukset pohjautuivat etenkin Jodelista luettuihin keskusteluihin. “ Olin kuullut ja lukenut Jodelista, että etenkin YT-linja on täynnä poliittisia tyyppejä. Ajattelin myös, että tämä koulu olisi täynnä enemmän tosi hikkeä porukkaa.“

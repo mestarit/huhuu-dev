@@ -2,6 +2,7 @@
 title: "Kulissien Takana: Puurojuhla 2021"
 author: "Peppi Särkelä"
 date: 2021-12-21 07:00:09 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Puurojuhla on KSYK:in monivuotinen jouluperinne. Se on oppilaiden, opiskelijoiden, opettajien sekä muun koulun väen viimeinen mahdollisuus kokoontua yhteen ennen syyslukukauden päättymistä ja joululomille lähtemistä. Tapahtuman oleellisin osa ovat lukuisat upeat esitykset, joita laaditaan ja harjoitellaan ahkerasti ennen juhlapäivää. Esityksiin nähdään paljon vaivaa ja lopputuloksena saadaan aikaan upea juhla.

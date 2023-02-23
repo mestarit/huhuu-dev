@@ -2,6 +2,7 @@
 title: "Wanhat Meni, Muistot Jäi"
 author: "Lilli Virolainen"
 date: 2022-06-02 16:25:38 +0000
+layout: "../../layouts/NewsLayout.astro"
 ---
 
 Wanhojen tanssit ovat yksi lukion odotetuimpia päiviä, johon nähdään paljon vaivaa. Wanhat tanssitaan yleensä heti abien lähdön jälkeen ja tarkoituksena on juhlia sitä, että nyt toisen vuosikurssin opiskelijat ovat koulun vanhimpia. Toukokuun alussa kakkoset pääsivät vihdoin ja viimein tanssimaan Wanhat – katso kuvat ikimuistoiselta illalta!
