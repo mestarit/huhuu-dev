@@ -4,6 +4,7 @@ date: 29-10-2022
 author: "Aino Sipilä ja Daniel Yakushonok"
 readTime: "2 min read"
 layout: "../../layouts/NewsLayout.astro"
+tags: ["ajankohtaista"] 
 ---
 
 # Uudet ykköset
