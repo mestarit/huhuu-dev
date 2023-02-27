@@ -1,11 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Posts from '../components/Posts.astro';
+import Slideshow from '../components/Slideshow.astro'
 ---
 
 <Layout title="Welcome to Huhuu News!">
-	<main>
+	<main class="bg-slate-300 dark:bg-slate-900 dark:text-white">
 		<h1>Huhuu!</h1>
+		<Slideshow />
 		<Posts />
 	</main>
 </Layout>

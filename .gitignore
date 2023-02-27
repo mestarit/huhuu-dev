@@ -1,6 +1,7 @@
 # build output
 dist/
 .output/
+src/scripts/*.md
 
 # dependencies
 node_modules/
