@@ -10,6 +10,18 @@ import threading
 
 import urllib
 
+
+def check_writer(aa):
+    aaa = aa.split("\n")
+    for a in aaa:
+        if a.find("Kirjoitaja: ") or a.find("Teksti: ") == "true":
+            kakaa = a.rsplit(":")
+            print(kakaa)
+
+            
+        else:
+            continue;
+
 SCROLL_PAUSE_TIME = 2
 links: str = []
 driver = webdriver.Firefox()
@@ -64,8 +76,12 @@ bottom of page
 
 
 {"appsWarmupData":{},"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"ooi":{"failedInSsr":{}}}""","")
+    
     print(f"{parsed}.md")
-    ffff = f"""---\nlayout: "../../layouts/NewsLayout.astro"\n---{kaka}"""
+
+
+    mmm = check_writer(kaka)
+    ffff = f"""---\nauthor: {mmm}\nlayout: "../../layouts/NewsLayout.astro"\n---{kaka}"""
     faa= open(f"{parsed}.md","x")
     print(faa)
     faa.write(ffff)
